@@ -1,0 +1,14 @@
+C:\Users\okan113\source\repos\Demo_Product\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.deps.json
+C:\Users\okan113\source\repos\Demo_Product\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.dll
+C:\Users\okan113\source\repos\Demo_Product\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.pdb
+C:\Users\okan113\source\repos\Demo_Product\BusinessLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\okan113\source\repos\Demo_Product\BusinessLayer\bin\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\okan113\source\repos\Demo_Product\BusinessLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\okan113\source\repos\Demo_Product\BusinessLayer\bin\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\okan113\source\repos\Demo_Product\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\okan113\source\repos\Demo_Product\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\okan113\source\repos\Demo_Product\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\okan113\source\repos\Demo_Product\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CopyComplete
+C:\Users\okan113\source\repos\Demo_Product\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.dll
+C:\Users\okan113\source\repos\Demo_Product\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.pdb
+C:\Users\okan113\source\repos\Demo_Product\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CoreCompileInputs.cache

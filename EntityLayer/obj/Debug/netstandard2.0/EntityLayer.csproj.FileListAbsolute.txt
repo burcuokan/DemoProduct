@@ -1,0 +1,9 @@
+C:\Users\okan113\source\repos\Demo_Product\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.deps.json
+C:\Users\okan113\source\repos\Demo_Product\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\okan113\source\repos\Demo_Product\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.csprojAssemblyReference.cache
+C:\Users\okan113\source\repos\Demo_Product\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\okan113\source\repos\Demo_Product\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.AssemblyInfo.cs
+C:\Users\okan113\source\repos\Demo_Product\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\okan113\source\repos\Demo_Product\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\okan113\source\repos\Demo_Product\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\okan113\source\repos\Demo_Product\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.csproj.CoreCompileInputs.cache
