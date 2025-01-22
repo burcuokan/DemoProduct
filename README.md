@@ -99,6 +99,64 @@ ASP.NET Core ile n katmanlı mimari kullanarak geliştirdiğim proje giriş pane
 
  ![chrome_Ta71CB5Fvl](https://github.com/user-attachments/assets/635349f2-ada7-43d7-ae59-dbb849760548)
 
+ **Yeni Hesap Oluşturma Paneli**
+
+ ![chrome_0GzHfZBS1x](https://github.com/user-attachments/assets/aa912b13-f966-4026-96a2-fdcf58eb3f4a)
+
+ **Ürünler**
+
+![chrome_yIIraJM9cj](https://github.com/user-attachments/assets/86fa76dd-a58c-4acf-8a8f-7b2914dec568)
+
+ **Yeni Ürün Girişi**
+
+ ![chrome_NVQz5Adm85](https://github.com/user-attachments/assets/5807fb1d-538f-483c-acea-3ff851a3b614)
+
+
+**Müşteriler**
+
+![chrome_K2MIMDNYl2](https://github.com/user-attachments/assets/4e7deada-643e-4e7d-816e-b344ee9df1bd)
+
+**Yeni Müşteri Girişi**
+
+![chrome_h9adLVMx1k](https://github.com/user-attachments/assets/14dfe4b1-fd97-4302-b08e-7c1516bc3e2c)
+
+
+**Kategoriler**
+
+![chrome_5TqvTSIRn5](https://github.com/user-attachments/assets/7b6e2264-354e-4694-96bb-d373dd3adb67)
+
+**Yeni Kategori Girişi**
+
+![chrome_P8T823gakn](https://github.com/user-attachments/assets/46bcabc6-0861-414f-87b6-9dc678545039)
+
+
+**Meslekler**
+
+![chrome_RKHDdOD5DP](https://github.com/user-attachments/assets/823e55ef-b63f-4b97-bcb2-0ee57c56aa8b)
+
+**Yeni Meslek Girişi**
+
+![chrome_UYgiqqd16r](https://github.com/user-attachments/assets/e9e17c9e-a483-469b-95ad-320a1a1b89f2)
+
+**Şifre İşlemleri**
+
+![chrome_y29r7FBJxI](https://github.com/user-attachments/assets/d6023c60-bfa8-4b56-b199-6194df3e56ea)
+
+**Yardım**
+
+![chrome_cVZvwe57vG](https://github.com/user-attachments/assets/d2dd6676-348d-4b6c-bb42-7a8af2fccc41)
+
+
+
+
+
+
+
+
+
+ 
+
+
 
 
 
