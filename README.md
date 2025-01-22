@@ -1,6 +1,6 @@
 # 🚀 **N KATMANLI MİMARİ PROJESİ**
 
-ASP.NET Core ile n katmanlı mimari kullanarak geliştirdiğim proje giriş paneli, ürünler, müşteriler, kategoriler, meslekler, yeni meslek girişi, yeni ürün girişi, şifre işlemleri ve yardım, çıkış yap modülü gibi çeşitli işlevselliklere sahiptir. Bu modüller, yönetim süreçlerinizi daha etkin hale getirmek için tasarlanmıştır.
+ASP.NET Core ile N katmanlı mimari kullanarak geliştirdiğim proje giriş paneli, ürünler, müşteriler, kategoriler, meslekler, yeni meslek girişi, yeni ürün girişi, şifre işlemleri ve yardım, çıkış yap modülü gibi çeşitli işlevselliklere sahiptir. Bu modüller, yönetim süreçlerinizi daha etkin hale getirmek için tasarlanmıştır.
 
 👤 **Giriş Paneli**
 ---
